@@ -1,1 +1,2 @@
-`<p>这是一个代码块</p>`
+> [!NOTE]
+> This is a NOTE
